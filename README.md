@@ -1,2 +1,2 @@
 # Hotrace
-Binary Search
+Binary Search in a big amount of lines.
